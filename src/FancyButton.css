@@ -1,0 +1,10 @@
+.fancyButton {
+    border-radius: 10px;
+    background: red;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.fancyButton.green {
+    background: green;
+}
